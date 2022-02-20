@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CHCLopes, a noob Dev
+- 👋 Hi, I’m @CHCLopes, a noob Web Dev
 - 👀 I’m interested in learn ever
 - 🌱 I’m currently learning html, css3 and javascript
 - 💞️ I’m looking to collaborate on all projects where I can learn
