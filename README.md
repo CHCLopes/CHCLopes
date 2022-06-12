@@ -11,18 +11,18 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=CHCLopes&show_icons=true&theme=merko&hide_title=true&locale=pt-br"/>
 
   <img width="40%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@CHCLopes&show_icons=true&theme=merko&hide_title=true&locale=pt-br"/>  
-</div>
+</div><br>
 
 <div align="center">
-🔭 Atualmente **estudando na DIO**
+🔭 Atualmente **estudando na DIO** <br>
 
-🌱 Aprendendo de tudo, mas refinando **HTML, CSS, JavaScript e React**
+🌱 Aprendendo de tudo, mas refinando **HTML, CSS, JavaScript e React**<br>
 
-👯 Busco **aprender com tudo e todos**
+👯 Busco **aprender com tudo e todos**<br>
 
-🤝 Aceito ajuda e dicas **de onde vierem**
+🤝 Aceito ajuda e dicas **de onde vierem**<br>
 
-📫Me contate mandando um email para **carlos.sk8r.x@gmail.com**
+📫Me contate mandando um email para **carlos.sk8r.x@gmail.com**<br>
 </div>
 
 <div align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=chclopes&theme=merko" alt="chclopes" /></div>
