@@ -14,16 +14,7 @@
 </div><br>
 
 <div align="center">
-  \n
-🔭Atualmente **estudando na DIO**🔭
-
-🌱Aprendendo de tudo, mas refinando **HTML, CSS, JavaScript** e iniciando **React e Angular**🌱
-
-👯Busco **aprender com tudo e todos**👯
-
-🤝Aceito ajuda e dicas **de onde vierem**🤝
-
-📫Me contate mandando um email para **carlos.sk8r.x@gmail.com**📫
+🔭Atualmente **estudando na DIO**🔭<br>🌱Aprendendo de tudo, mas refinando **HTML, CSS, JavaScript** e iniciando **React e Angular**🌱<br>👯Busco **aprender com tudo e todos**👯<br>🤝Aceito ajuda e dicas **de onde vierem**🤝<br>📫Me contate mandando um email para <img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg)" alt="gmail" height="30" width="40" /> **carlos.sk8r.x@gmail.com**📫
 </div>
 
 <div align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=chclopes&theme=merko" alt="chclopes" /></div>
