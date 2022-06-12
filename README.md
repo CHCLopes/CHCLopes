@@ -13,6 +13,7 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@CHCLopes&show_icons=true&theme=merko&hide_title=true&locale=pt-br"/>  
 </div>
 
+<div align="center">
 - 🔭 Atualmente **estudando na DIO**
 
 - 🌱 Aprendendo de tudo, mas refinando **HTML, CSS, JavaScript e React**
@@ -22,6 +23,7 @@
 - 🤝 Aceito ajuda e dicas **de onde vierem**
 
 - 📫Me contate mandando um email para **carlos.sk8r.x@gmail.com**
+</div>
 
 <div align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=chclopes&theme=merko" alt="chclopes" /></div>
 <div>
