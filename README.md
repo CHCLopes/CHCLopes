@@ -14,15 +14,16 @@
 </div><br>
 
 <div align="center">
-🔭 Atualmente **estudando na DIO** <br>
+  \n
+🔭Atualmente **estudando na DIO**🔭\n
 
-🌱 Aprendendo de tudo, mas refinando **HTML, CSS, JavaScript e React**<br>
+🌱Aprendendo de tudo, mas refinando **HTML, CSS, JavaScript e React**🌱\n
 
-👯 Busco **aprender com tudo e todos**<br>
+👯Busco **aprender com tudo e todos**👯\n
 
-🤝 Aceito ajuda e dicas **de onde vierem**<br>
+🤝Aceito ajuda e dicas **de onde vierem**🤝\n
 
-📫Me contate mandando um email para **carlos.sk8r.x@gmail.com**<br>
+📫Me contate mandando um email para **carlos.sk8r.x@gmail.com**📫\n
 </div>
 
 <div align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=chclopes&theme=merko" alt="chclopes" /></div>
