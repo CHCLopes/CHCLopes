@@ -14,7 +14,7 @@
 </div><br>
 
 <div align="center">
-🔭Atualmente **estudando na DIO**🔭<br>🌱Aprendendo de tudo, mas refinando **HTML, CSS, JavaScript** e iniciando **React e Angular**🌱<br>👯Busco **aprender com tudo e todos**👯<br>🤝Aceito ajuda e dicas **de onde vierem**🤝<br>📫Me contate mandando um email para <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="20" width="20" /> **carlos.sk8r.x@gmail.com**<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="20" width="20" />📫
+Atualmente estudando na <img src="https://hermes.digitalinnovation.one/assets/diome/logo.svg" alt="dio" height="20" width="20" />**DIO** e na <img src="http://www.w3.org/2000/svg" alt="origamid" height="20" width="20" />**Origamid**<br>🌱Aprendendo de tudo, mas refinando **HTML, CSS, JavaScript** e iniciando **React e Angular**🌱<br>👯Busco **aprender com tudo e todos**👯<br>🤝Aceito ajuda e dicas **de onde vierem**🤝<br>📫Me contate mandando um email para <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="20" width="20" /> **carlos.sk8r.x@gmail.com**<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="20" width="20" />📫
 </div>
 
 <div align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=chclopes&theme=merko" alt="chclopes" /></div>
