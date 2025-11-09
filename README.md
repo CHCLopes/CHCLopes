@@ -15,7 +15,7 @@
 </div><br>
 
 <div align="center">
-Atualmente estudando na ALURA e na <img src="http://files.empreendemia.com.br.s3-sa-east-1.amazonaws.com/companies/19128/191281915baa4184591833172161851d89d331646ad216e3/200_6a49d95600.png" alt="Origamid" height="60" width="60" margin="5px" /><br>🌱Aprendendo de tudo, mas refinando HTML, CSS, JavaScript.🌱 <br> 🌱Iniciando React e Angular🌱<br>O Aprendizado VEM DE TODOS OS LUGARES A TODO MOMENTO<br>🤝Ajudar e ser ajudado🤝<br>Email <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="20" width="20" /> carlos.sk8r.x@gmail.com<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="20" width="20" />
+<br>🌱Aprendendo de tudo, mas refinando React e Tailwind.🌱 <br> O Aprendizado VEM DE TODOS OS LUGARES A TODO MOMENTO<br>🤝Ajudar e ser ajudado🤝<br>Email <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="20" width="20" /> carlos.sk8r.x@gmail.com<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="20" width="20" />
 </div>
 
 <div align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=chclopes&theme=merko" alt="chclopes" /></div>
