@@ -100,10 +100,6 @@ const carlos = {
 
 <div align="center">
 
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=CHCLopes&theme=blue-green&row=1&column=8&no-frame=true&border_radius=8" alt="CHCLopes" />
-
-  ---
-
   <img width="36%" src="https://github-readme-stats.vercel.app/api?username=CHCLopes&show_icons=true&theme=blue-green&hide_title=true&locale=pt-br&hide_border=false&include_all_commits=true&border_radius=8"/>
     <img width="34%" src="https://github-readme-streak-stats.herokuapp.com/?user=chclopes&theme=blue-green&hide_border=false&border_radius=8" alt="chclopes" />
     <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHCLopes&show_icons=true&theme=blue-green&locale=pt-br&layout=compact&hide_border=false&border_radius=8"/>
