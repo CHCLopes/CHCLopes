@@ -100,9 +100,7 @@ const carlos = {
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="90%" src="https://github-profile-trophy.vercel.app/?username=chclopes&theme=blue-green&row=1&column=8&no-frame=true&border_radius=8" alt="chclopes" />
-</a>
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=chclopes&theme=blue-green&row=1&column=8&no-frame=true&border_radius=8" alt="chclopes" />
 
   ---
 
