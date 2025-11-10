@@ -100,7 +100,7 @@ const carlos = {
 
 <div align="center">
 
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=chclopes&theme=blue-green&row=1&column=8&no-frame=true&border_radius=8" alt="chclopes" />
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=CHCLopes&theme=blue-green&row=1&column=8&no-frame=true&border_radius=8" alt="CHCLopes" />
 
   ---
 
