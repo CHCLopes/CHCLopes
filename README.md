@@ -1,151 +1,176 @@
-<h1 style="text-align: center; font-size: 2.5rem">
-  <i><strong>Carlos "Sk8" Lopes</strong></i>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
+  <img src="./assets/hero-light.svg" alt="Da operação à interface." width="100%" />
+</picture>
 
+<h1 align="center">Carlos Henrique Lopes</h1>
 
-<h3 style="text-align: center; font-size: 1.5rem"> Front-End Developer Jr. | Agile Project Manager Jr. <br /> Power Apps Dev | Excel Data Analyst </h3><br />
+<p align="center">
+  <strong>Desenvolvimento &amp; Gestão</strong><br />
+  Front-end · Power Platform · Dados · Gestão de equipes e processos<br />
+  <sub>Recife, PE · Brasil · Também conhecido como Sk8 por aqui</sub>
+</p>
 
-<div align="center">
-  
-  ![GitHub Views](https://komarev.com/ghpvc/?username=chclopes&label=Profile%20views&color=006560&style=for-the-badge)
-  ![Followers](https://img.shields.io/github/followers/chclopes?&color=006560&style=for-the-badge)
-  ![Repositories](https://img.shields.io/badge/Repositories-10+-blue?&color=006560&style=for-the-badge)
-  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCHCLopes&countColor=%23006560)
+<p align="center">
+  <a href="https://portfoliocarloslopes.netlify.app/"><img src="./assets/link-portfolio.svg" alt="Explore meu portfólio" height="38" /></a>
+  <a href="https://www.linkedin.com/in/carlos-lopes-b445aa201/"><img src="./assets/link-linkedin.svg" alt="Conecte-se comigo no LinkedIn" height="38" /></a>
+  <a href="mailto:carloshcldev@gmail.com"><img src="./assets/link-email.svg" alt="Escreva para mim por e-mail" height="38" /></a>
+</p>
 
-</div>
+## Sobre mim
 
-<i align="center">Identifico pontos de melhoria e soluções para aumentar e performance de processos e gestão usando metodologias ágeis e análise de dados, e busco ou estudo a construção de ferramentas direcionadas para esse fim.
-Versátil e responsivo, gosto de transformar dados em informação e fazer áreas diferentes conversarem entre si, sempre pensando na experiência e necessidade do usuário final e dos stakeholders.</i>
+Construo ferramentas com a visão de quem já esteve na linha de frente. Minha trajetória começou na gestão de operações e na educação corporativa. Nos Correios, liderei equipes, acompanhei indicadores e atuei na gestão da rede franqueada. Essa experiência orienta como leio processos e organizo prioridades antes de desenhar uma interface.
+
+Hoje, desenvolvo em React e Power Apps e conduzo o trabalho de agentes de IA com requisitos, revisão técnica e responsabilidade pelas decisões. Também ajudo equipes a compreender os dados e a usar as ferramentas com autonomia. Gosto de fazer áreas diferentes conversarem entre si e de transformar informação dispersa em algo útil para quem precisa decidir.
 
 ```javascript
 const carlos = {
-  código: ["JavaScript", "HTML", "CSS", "Microsoft Power FX"],
-  tecnologias: {
-    frontEnd: {
-      frameworks: ["React"],
-      styling: ["Tailwind CSS", "BootStrap CSS"],
-    },
-    ferramentas: ["Figma", "Git", "Vite"],
-    metodologias: ["Scrum", "Agile", "Mobile First", "Clean Code"]
+  nome: "Carlos Henrique Lopes",
+  base: "Recife, PE",
+  formacao: [
+    "Gestão da Tecnologia da Informação",
+    "Especialização em Desenvolvimento Mobile"
+  ],
+  atuacao: {
+    gestao: ["Equipes", "Processos", "Scrum", "Educação corporativa"],
+    interfaces: ["React", "TypeScript", "Power Apps", "UX/UI"],
+    dados: ["Excel", "Power BI", "Lists", "SharePoint"]
   },
-  aprendendoAtualmente: ["React", "Node.js", "Tailwind", "Cloud"],
-  certificações: ["Gestor Ágil de Projetos - Alura"],
-  filosofia: "🚀 Aprendizado contínuo | 🤝 Colaboração | 💡 Inovação",
-  objetivo: "Resolver problemas e criar experiências digitais excepcionais e acessíveis"
-}
-
+  iaAplicada: ["Harness", "SDD", "Contexto", "Revisão humana"],
+  pontoDePartida: "Entender a rotina de quem vai usar a solução"
+};
 ```
 
-</h1>
+## Tech Stack & competências
 
----
----
-<h3 style="text-align: center; font-size: 2.5rem">
-  <strong>Tech Stack</strong>
-</h3>
+### Front-end
 
-<h3 style="font-size: 1.8rem" >
-  <i><strong>Front-End</strong></i>
-</h3>
+![HTML5](https://img.shields.io/badge/HTML5-153F43?style=flat-square&logo=html5&logoColor=75D5C8)
+![CSS3](https://img.shields.io/badge/CSS3-153F43?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-153F43?style=flat-square&logo=javascript&logoColor=75D5C8)
+![TypeScript](https://img.shields.io/badge/TypeScript-153F43?style=flat-square&logo=typescript&logoColor=75D5C8)
+![React](https://img.shields.io/badge/React-153F43?style=flat-square&logo=react&logoColor=75D5C8)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-153F43?style=flat-square&logo=tailwindcss&logoColor=75D5C8)
+![Vite](https://img.shields.io/badge/Vite-153F43?style=flat-square&logo=vite&logoColor=75D5C8)
 
-<div style="text-align: left; font-size: 1rem" >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML Icon" width="15"/> HTML5 | 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS Icon" width="15"/> CSS3 |  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JS Icon" width="15"/> JS | 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="REACT Icon" width="15"/> REACT | 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind Icon" width="15"/> Tailwind
-</div>
+### Design & prototipação
 
----
+![Figma](https://img.shields.io/badge/Figma-153F43?style=flat-square&logo=figma&logoColor=75D5C8)
+![Canva](https://img.shields.io/badge/Canva-153F43?style=flat-square)
+![UX/UI](https://img.shields.io/badge/UX%2FUI-386E58?style=flat-square)
+![Mobile first](https://img.shields.io/badge/Mobile_first-386E58?style=flat-square)
 
-<h3 style="font-size: 1.8rem" >
-  <i><strong>Design & Prototyping</strong></i>
-</h3>
+### Dados & Microsoft Power Platform
 
-<div style="text-align: left; font-size: 1rem" >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma Icon" width="15"/> Figma | 
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" alt="Canva Icon" width="15"/> Canva
-</div>
+![Power Apps](https://img.shields.io/badge/Power_Apps-153F43?style=flat-square)
+![Power Fx](https://img.shields.io/badge/Power_Fx-153F43?style=flat-square)
+![Power Automate](https://img.shields.io/badge/Power_Automate-153F43?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-153F43?style=flat-square)
+![Excel](https://img.shields.io/badge/Excel-153F43?style=flat-square)
+![SharePoint](https://img.shields.io/badge/SharePoint-153F43?style=flat-square)
+![Microsoft Lists](https://img.shields.io/badge/Microsoft_Lists-153F43?style=flat-square)
+![Access](https://img.shields.io/badge/Access-153F43?style=flat-square)
 
----
+### Gestão, ferramentas & IA aplicada
 
-<h3 style="font-size: 1.8rem" >
-  <i><strong>Microsoft Office & Power Platform</strong></i>
-</h3>
+![Git](https://img.shields.io/badge/Git-153F43?style=flat-square&logo=git&logoColor=75D5C8)
+![GitHub](https://img.shields.io/badge/GitHub-153F43?style=flat-square&logo=github&logoColor=75D5C8)
+![Scrum](https://img.shields.io/badge/Scrum-386E58?style=flat-square)
+![Gestão de equipes](https://img.shields.io/badge/Gest%C3%A3o_de_equipes-386E58?style=flat-square)
+![SEI](https://img.shields.io/badge/SEI-386E58?style=flat-square)
+![Harness](https://img.shields.io/badge/Harness-386E58?style=flat-square)
+![SDD](https://img.shields.io/badge/SDD-386E58?style=flat-square)
 
-<div style="text-align: left; font-size: 1rem" >
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-excel-icon.png" alt="Sharepoint Icon" width="15"/> Excel |
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/office-365-icon.png" alt="Office 365 Icon" width="15"/> Office 365 | 
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sharepoint-icon.png" alt="Sharepoint Icon" width="15"/> Sharepoint |
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" alt="PowerBI Icon" width="15"/> PowerBI | 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Powerapps-logo.svg/96px-Powerapps-logo.svg.png?20250219191713" alt="PowerApps Icon" width="15"/> PowerApps
-</div>
+No desenvolvimento assistido por IA, trabalho com contexto, limites de execução e critérios de aceitação. Uso o SDD, desenvolvimento orientado por especificações, para dar direção ao trabalho dos agentes e revisar o que foi construído.
 
----
+## Projetos em destaque
 
-<h3 style=" font-size: 1.8rem" >
-  <i><strong>Development, Analytics & Management</strong></i>
-</h3>
+### 01 / JBL Desk
 
-<div style="text-align: left; font-size: 1rem" >
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="VS Code Icon" width="15"/> VS Code | 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chartjs/chartjs-original.svg" alt="ChartJS Icon" width="15"/> ChartJS | 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="Github Icon" width="15"/> Github | 
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/trello-logo-icon.png" alt="Trello Icon" width="15"/> Trello
+**Front-end, UX/UI e storytelling em Power Apps.** Interface corporativa para a JBL Nordeste durante sua transição digital, construída em colaboração com Product Owner e equipe de back-end. Foi meu primeiro trabalho conduzindo agentes de IA na construção, com Gemini.
 
-</div>
+Os números apresentados no case são fictícios: a base foi criada para trabalhar a interface e sua narrativa, sem representar resultados reais do negócio.
 
----
----
+[Conheça o case no portfólio →](https://portfoliocarloslopes.netlify.app/#jbl-desk)
 
-<h3 style="text-align: center; font-size: 2.5rem">
-  <strong>GitHub Analytics</strong>
-</h3>
+### 02 / GERAT APP
 
-<div align="center">
+**Front-end e atuação como agilista.** Aplicação local nos Correios que concentrava e tratava dados de sistemas dispersos para apoiar os gestores das unidades. Trabalhei em uma equipe de três pessoas, com PO e desenvolvedor de back-end, usando Power Apps, Lists, SharePoint, Power Automate, Access e Excel.
 
-  <!-- Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="90%" src="https://github-profile-trophy.vercel.app/?username=chclopes&theme=blue-green&row=1&column=8&no-frame=true&border_radius=8" alt="chclopes" />
-  </a>
+O projeto recebeu o **Prêmio Destaques do Ano 2022**, na categoria Projeto de Inovação, entregue em 2023. A solução tornou-se um MVP em evolução para uma aplicação oficial em outra linguagem.
 
-  ---
+[Conheça o case →](https://portfoliocarloslopes.netlify.app/#gerat-app) · [Veja o reconhecimento no LinkedIn →](https://www.linkedin.com/feed/update/urn:li:activity:7135630836141309952/)
 
-  <img width="36%" src="https://github-readme-stats.vercel.app/api?username=CHCLopes&show_icons=true&theme=blue-green&hide_title=true&locale=pt-br&hide_border=false&include_all_commits=true&border_radius=8"/>
-  <!-- Streak -->
-  <img width="34%" src="https://github-readme-streak-stats.herokuapp.com/?user=chclopes&theme=blue-green&hide_border=false&border_radius=8" alt="chclopes" />
-  <!-- Stats Grid -->
-  <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHCLopes&show_icons=true&theme=blue-green&locale=pt-br&layout=compact&hide_border=false&border_radius=8"/>
-  
-</div>
+### 03 / Michely Massoterapia
 
----
----
+**Site para uma cliente do setor de serviços.** Desenvolvimento da interface e da navegação responsiva, com apresentação dos serviços e caminhos diretos para contato e agendamento.
 
-<h3 style="text-align: center; font-size: 2.5rem">
-  <strong>Projetos em Destaque</strong>
-</h3>
+`React` `Tailwind CSS` `Vite` `JotForm`
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+[Acesse o site →](https://michelymassoterapia.netlify.app/) · [Explore o código →](https://github.com/CHCLopes/ProjetoMassoterapia)
 
+### 04 / Endereçador
 
-[![Projeto Endereçador](https://github-readme-stats.vercel.app/api/pin/?username=CHCLopes&repo=Projeto-Enderecador&theme=blue-green&border_radius=8)](https://github.com/CHCLopes/Projeto-Enderecador)
-[![Projeto Massoterapia](https://github-readme-stats.vercel.app/api/pin/?username=CHCLopes&repo=ProjetoMassoterapia&theme=blue-green&border_radius=8)](https://github.com/CHCLopes/ProjetoMassoterapia/)
-[![Bikcraft](https://github-readme-stats.vercel.app/api/pin/?username=CHCLopes&repo=LandingPageBikCraft&theme=blue-green&border_radius=8)](https://github.com/CHCLopes/LandingPageBikCraft/)
-[![Alura Books](https://github-readme-stats.vercel.app/api/pin/?username=CHCLopes&repo=Alura-Books&theme=blue-green&border_radius=8)](https://github.com/CHCLopes/Alura-Books)
+**Uma ferramenta que nasceu da rotina de postagem.** Consulta de CEP, preenchimento de endereços, prévia dos documentos e fila de impressão em um só fluxo.
 
+`React` `TypeScript` `Tailwind CSS` `ViaCEP`
 
-</div>
+[Experimente →](https://enderecador.netlify.app/) · [Explore o código →](https://github.com/CHCLopes/Projeto-Enderecador)
 
----
----
+### 05 / MyAntigravityHarness
 
-<h3 style="text-align: center; font-size: 2.5rem">
-  <strong>Fale Comigo</strong>
-</h3>
+**Direção e limites para o trabalho de agentes.** Estrutura de governança com especificações de produto, arquitetura e design system, roteamento de skills e scripts de execução e validação em Python.
 
-<div align="center">
+`Python` `SDD` `Governança de IA`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-lopes-b445aa201)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos.sk8r.x@gmail.com)
+[Explore o harness →](https://github.com/CHCLopes/MyAntigravityHarness)
 
-</div>
+<details>
+<summary><strong>Outros projetos, estudos e bastidores</strong></summary>
+
+- [Portfólio](https://github.com/CHCLopes/Portfolio): React, TypeScript e um processo de construção com decisões de produto, refinamentos de interface, acessibilidade e SEO. [Veja o resultado](https://portfoliocarloslopes.netlify.app/).
+- [Sk8-Genius](https://github.com/CHCLopes/Sk8-Genius): jogo de memória em React e TypeScript, com modos de jogo, áudio e atalhos de teclado. [Experimente](https://sk8-genius.netlify.app/).
+- [Bikcraft](https://github.com/CHCLopes/LandingPageBikCraft): estudo de HTML, CSS e mobile first a partir de um layout da Origamid. [Acesse a página](https://sk8bikcraft.netlify.app/).
+- [Desenvolvimento assistido por IA](https://github.com/CHCLopes/desenvolvimento-assistido-ia-ux): caderno de estudos sobre contexto, prompts e revisão técnica, organizado com apoio do NotebookLM.
+
+</details>
+
+## GitHub Analytics
+
+[Repositórios e experimentos](https://github.com/CHCLopes?tab=repositories) · [Histórico de contribuições](https://github.com/CHCLopes?tab=overview)
+
+<details>
+<summary><strong>Ver estatísticas do GitHub</strong></summary>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=CHCLopes&amp;show_icons=true&amp;hide_title=true&amp;locale=pt-br&amp;hide_border=true&amp;bg_color=0B2226&amp;title_color=86DFCF&amp;text_color=EDF2E9&amp;icon_color=9BCAAC" />
+    <img src="https://github-readme-stats.vercel.app/api?username=CHCLopes&amp;show_icons=true&amp;hide_title=true&amp;locale=pt-br&amp;hide_border=true&amp;bg_color=F7F8F2&amp;title_color=153F43&amp;text_color=496365&amp;icon_color=386E58" alt="Estatísticas públicas de atividade no GitHub de Carlos Henrique Lopes" width="440" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=CHCLopes&amp;locale=pt_BR&amp;hide_border=true&amp;background=0B2226&amp;ring=86DFCF&amp;fire=9BCAAC&amp;currStreakLabel=EDF2E9&amp;sideLabels=EDF2E9&amp;currStreakNum=86DFCF&amp;sideNums=EDF2E9&amp;dates=ADBFBA&amp;stroke=325254" />
+    <img src="https://streak-stats.demolab.com?user=CHCLopes&amp;locale=pt_BR&amp;hide_border=true&amp;background=F7F8F2&amp;ring=386E58&amp;fire=386E58&amp;currStreakLabel=153F43&amp;sideLabels=153F43&amp;currStreakNum=153F43&amp;sideNums=153F43&amp;dates=496365&amp;stroke=CDDAD4" alt="Histórico público de dias de contribuição no GitHub" width="440" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CHCLopes&amp;locale=pt-br&amp;layout=compact&amp;hide_border=true&amp;bg_color=0B2226&amp;title_color=86DFCF&amp;text_color=EDF2E9" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHCLopes&amp;locale=pt-br&amp;layout=compact&amp;hide_border=true&amp;bg_color=F7F8F2&amp;title_color=153F43&amp;text_color=496365" alt="Distribuição de linguagens nos repositórios públicos analisados pelo serviço" width="360" />
+  </picture>
+</p>
+
+<sub>Os cards são fornecidos por serviços externos e podem ficar indisponíveis. A distribuição de linguagens descreve os repositórios analisados, não um nível de domínio.</sub>
+
+</details>
+
+## Vamos conversar
+
+Tenho interesse em oportunidades de gestão de equipes e processos e no desenvolvimento de soluções digitais. Se o desafio envolve organizar informações, aproximar áreas ou construir uma ferramenta para uma necessidade real, podemos conversar.
+
+| Canal | Onde me encontrar |
+| --- | --- |
+| Portfólio | [portfoliocarloslopes.netlify.app](https://portfoliocarloslopes.netlify.app/) |
+| LinkedIn | [Carlos Henrique Lopes](https://www.linkedin.com/in/carlos-lopes-b445aa201/) |
+| E-mail | [carloshcldev@gmail.com](mailto:carloshcldev@gmail.com) |
+| GitHub | [@CHCLopes](https://github.com/CHCLopes) |
+
+<p align="center"><sub>Desenvolvimento &amp; Gestão · Recife, PE</sub></p>
