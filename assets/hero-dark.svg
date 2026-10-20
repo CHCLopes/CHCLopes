@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Da operação à interface.</title>
+  <desc id="desc">Assinatura do portfólio de Carlos Henrique Lopes. Tipografia leve em off-white sobre petróleo, com órbitas finas em aqua e verde.</desc>
+  <rect x="1" y="1" width="1198" height="428" rx="32" fill="#0B2226" stroke="#325254"/>
+  <text x="60" y="66" font-family="Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="3" fill="#9BCAAC">DESENVOLVIMENTO &amp; GESTÃO</text>
+  <g fill="none" stroke-width="1">
+    <path d="M65 233C184 167 419 133 682 152S1108 223 1138 280" stroke="#325254"/>
+    <path d="M1138 280C1097 332 780 352 491 324S104 277 65 233" stroke="#86DFCF"/>
+    <ellipse cx="947" cy="222" rx="129" ry="46" transform="rotate(-15 947 222)" stroke="#9BCAAC" opacity=".5"/>
+    <ellipse cx="947" cy="222" rx="104" ry="76" transform="rotate(24 947 222)" stroke="#86DFCF"/>
+  </g>
+  <text x="57" y="208" font-family="Segoe UI,Arial,sans-serif" font-size="100" font-weight="200" letter-spacing="-5" fill="#EDF2E9">Da operação</text>
+  <text x="142" y="310" font-family="Segoe UI,Arial,sans-serif" font-size="108" font-weight="600" letter-spacing="-5" fill="#EDF2E9">à interface<tspan fill="#9BCAAC">.</tspan></text>
+  <circle cx="947" cy="222" r="53" fill="#143331"/>
+  <text x="947" y="239" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="59" font-weight="300" letter-spacing="-5" fill="#EDF2E9">cl<tspan fill="#9BCAAC">.</tspan></text>
+  <circle cx="1138" cy="280" r="3" fill="#9BCAAC"/>
+  <circle cx="65" cy="233" r="3" fill="#9BCAAC"/>
+  <path d="M61 363H1139" stroke="#325254"/>
+  <text x="61" y="397" font-family="Segoe UI,Arial,sans-serif" font-size="17" fill="#ADBFBA">Interfaces com contexto. Gestão próxima de quem usa.</text>
+</svg>
